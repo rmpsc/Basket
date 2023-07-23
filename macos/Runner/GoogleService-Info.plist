@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>284662378009-806ikbnj0h4mmoq4b139seq77lt1mcem.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.284662378009-806ikbnj0h4mmoq4b139seq77lt1mcem</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDQnptxobyAhqEWPBsolirdnmVbYb0ff-U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>284662378009</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.basket.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>basket-7d10f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>basket-7d10f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:284662378009:ios:035162c6b7e2f32d178488</string>
+	<key>DATABASE_URL</key>
+	<string>https://basket-7d10f-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
