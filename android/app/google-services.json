@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "284662378009",
+    "firebase_url": "https://basket-7d10f-default-rtdb.firebaseio.com",
+    "project_id": "basket-7d10f",
+    "storage_bucket": "basket-7d10f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284662378009:android:3475626de79c10f1178488",
+        "android_client_info": {
+          "package_name": "com.example.basket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284662378009-1657sc4ttqj8169viv5pbloh2t96eqal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEZRJlPyyLfu1BBOrng0T0UAWCR4GtXQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284662378009-1657sc4ttqj8169viv5pbloh2t96eqal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
